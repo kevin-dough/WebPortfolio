@@ -70,4 +70,5 @@
 
     a:hover, a:active {
       color: #ff458a;
+      text-decoration: none;
     }
